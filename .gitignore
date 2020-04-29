@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MuJava
+*.class
+mujava/result/*
+mujava/json/*
+mujava/graphs-auto/*
+mujava/test-requirements/*
